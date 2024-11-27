@@ -21,7 +21,7 @@ Here’s a simplified version of the **README.md** file with only the **features
 
 #### 1. Clone the Repository:
    ```bash
-   git clone https://github.com/your-repo/lms-mern-project.git
+   git clone https://github.com/Ameet407/LMS_mern.git
    cd LMS
    ```
 
